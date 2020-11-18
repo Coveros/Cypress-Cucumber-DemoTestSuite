@@ -4,5 +4,8 @@
     },
     "dependencies": {
         "cosmiconfig": "^7.0.0"
+    },
+    "devDependencies": {
+        "cypress": "^5.6.0"
     }
 }
