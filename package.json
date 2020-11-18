@@ -1,0 +1,8 @@
+{
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    },
+    "dependencies": {
+        "cosmiconfig": "^7.0.0"
+    }
+}
